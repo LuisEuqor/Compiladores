@@ -41,7 +41,7 @@ elif (cadena == p3):
 elif (cadena == p4):
     print ("La cadena es: ", cadena, "La palabra reservada es: ", p4)
 elif (cadena == p5):
-    print ("La cadena es: ", cadena, "La palabra reservada es: ", p5)
+   print ("La cadena es: ", cadena, "La palabra reservada es: ", p5)
 elif (cadena == p6):
     print ("La cadena es: ", cadena, "La palabra reservada es: ", p6)
 elif (cadena == p7):
